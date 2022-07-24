@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "669439282717",
+    "firebase_url": "https://actiontracer-36d0c.firebaseio.com",
+    "project_id": "actiontracer-36d0c",
+    "storage_bucket": "actiontracer-36d0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669439282717:android:f2441cb8012246be",
+        "android_client_info": {
+          "package_name": "com.winberg.attempt20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669439282717-4fqovcotoi059hvjk3rh3ivagrsrv933.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnoRxYWhTxp6rtFhTgyLQqNJbiF9yQ6Rk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
